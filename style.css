@@ -1,0 +1,13 @@
+/* CSS file including donation button styles and social media */
+nav a.donate-btn {
+  background-color: #a3cc28;
+  color: black;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-weight: bold;
+  transition: background-color 0.3s, color 0.3s;
+}
+nav a.donate-btn:hover {
+  background-color: #ccebeb;
+  color: black;
+}
